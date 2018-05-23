@@ -12,3 +12,7 @@
 4. ```npm install```
 6. ```run gulp``` 
 
+Оптимизировал галп сборку Loftschool под свои нужды.
+
+> Выполнил: Hicamalo
+
